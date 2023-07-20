@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "probability-distributions": "^0.9.1"
+  }
+}
