@@ -26,7 +26,7 @@ No one entered the industrial age with the intention of creating a pile of pollu
 
 This is an open-ended argument that eliminates intentions and motives and allows for random number generators to act as agents. This project is designed to exploit this open-endedness of this argument to show its uselessness with regards to describing AI risk.
 
-# Code Description
+## Code Description
 
 The code consists of the following main components:
 
@@ -36,6 +36,6 @@ The code consists of the following main components:
 
 **Beta Distribution Exploration**: The script explores the beta distribution by varying the parameters alpha, betaP, and negativeRate. It generates multiple random vectors and calculates their similarity to the provided embeddings for "instrumental convergence." The results are stored in the buckets object, categorized by similarity values.
 
-# Outcomes
+## Outcomes
 
 The highest similarity this code has generated to ChatGPT vector embeds is **11.6%**.  Intelligent interation can boost this signficiantly, especially since I am using `Math.random()`, the very worst random generator known to humanity.
