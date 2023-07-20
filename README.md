@@ -10,7 +10,7 @@ To run the code, make sure you have Node.js installed on your system. Additional
 
 ## Prerequisites
 
-The embed.json file contains the 1,536 ChatGPT vector embeddings for the phrase "instrumental convergence." We choose this word because it is a standard argument for AI doomers.
+The `embed.json` file contains the 1,536 ChatGPT vector embeddings for the phrase "_instrumental convergence_". We choose this word because it is a standard argument for AI doomers.
 
 Instrumental convergence allows for an open-ended defense of constraining AI. It derives this position from its reasoning. An example of instrumental convergence would be the industrial age. For example, you get involved with the industrial age because:
 
